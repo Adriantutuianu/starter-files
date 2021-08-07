@@ -1,3 +1,18 @@
+/* Reset CSS default */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Css variables example */
+/* :root {
+  --primary-color: #46a3bf;
+  --secondary-color: #ffa500;
+  --dark-grey: #383838;
+  --light-grey: #c0c0c0;
+} */
+
 body {
   background: red;
 }
